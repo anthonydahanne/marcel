@@ -11,7 +11,7 @@ import (
 var (
 	actions = map[string]string{
 		"attache":     "attach",
-		"construis":   "build",
+		"construit":   "build",
 		"engage":      "commit",
 		"copie":       "cp",
 		"crée":        "create",
